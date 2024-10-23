@@ -7,17 +7,16 @@ Bem-vindo ao meu portfólio web! Este projeto é uma vitrine do meu trabalho com
   <li>Página de Apresentação: Introdução sobre mim e uma citação inspiradora.  </li>
   <li>Seção de Habilidades: Mostra minhas principais habilidades técnicas.</li>
   <li>Seção de Projetos: Destaque de projetos importantes com descrições detalhadas e links.</li>
-  <li>Seção de Contato: Formulário de contato funcional para facilitar a comunicação.</li>
+  <li>Redes: Todos os links levam as minhas redes para uma melhor interatividade e comunicação.</li>
 </lu>
 <h4>Tecnologias Utilizadas</h4>
 <lu>
   <li>HTML & CSS: Estrutura e estilização das páginas.</li>
-  <li>JavaScript: Adiciona interatividade e funcionalidades dinâmicas.</li>
   <li>Responsive Design: Garantindo que o site seja acessível em diversos dispositivos.</li>  
 </lu>
 <h4>Como Acessar</h4>
 <p>Como Acessar
-Confira meu portfólio online aqui.
+Confira meu portfólio online <a href="https://portifolio-web-2.vercel.app">Aqui</a>
   <br>
   <h3>Algumas imagens da minha página</h3>
   
