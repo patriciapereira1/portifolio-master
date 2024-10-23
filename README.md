@@ -18,5 +18,13 @@ Bem-vindo ao meu portfólio web! Este projeto é uma vitrine do meu trabalho com
 <h4>Como Acessar</h4>
 <p>Como Acessar
 Confira meu portfólio online aqui.
+  <br>
+  <h3>Algumas imagens da minha página</h3>
+  
+<img src="https://github.com/patriciapereira1/portifolio-master/blob/main/foto1.png">
+<img src="https://github.com/patriciapereira1/portifolio-master/blob/main/foto2.png">
+<img src="https://github.com/patriciapereira1/portifolio-master/blob/main/foto4.png">
+<img src="https://github.com/patriciapereira1/portifolio-master/blob/main/foto5.png">
+<img src="https://github.com/patriciapereira1/portifolio-master/blob/main/foto3.png">
 
 Sinta-se à vontade para explorar e entrar em contato se tiver alguma pergunta ou oportunidade de colaboração!</p>
